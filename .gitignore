@@ -1,0 +1,9 @@
+# vscode setting
+.vscode
+
+# C object file
+*.o
+
+# factorial file
+factorial
+*.txt
